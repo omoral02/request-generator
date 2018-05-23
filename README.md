@@ -1,8 +1,8 @@
 # Request Generator
 ## Setup Instructions
-1. `git clone https://github.com/omoral02/traffic_generator_http_requests.git`
-2. `mkdir ~/Workspace/request-generator`
-3. `cd request-generator`
+1. `mkdir ~/Workspace/request-generator`
+2. `cd request-generator`
+3. `git clone https://github.com/omoral02/traffic_generator_http_requests.git`
 4. `npm install`
 5. `node index.js`
 

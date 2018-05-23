@@ -1,6 +1,6 @@
 # Request Generator
 ## Setup Instructions
-1. `git clone https://github.com/ivdekov/request-generator`
+1. `git clone https://github.com/omoral02/traffic_generator_http_requests.git`
 2. `cd request-generator`
 3. `npm install`
 4. `node index.js`
